@@ -40,7 +40,7 @@
          }
       }
    ],
-"Changes": [
+   "Changes": [
       {
          "LogName": "Load z_seasonsindoors",
          "Action": "Load",
@@ -48,10 +48,22 @@
          "FromFile": "assets/{{recolour}}/{{season}}_outdoorsTileSheet.png"
       },
       {
+         "LogName": "Load z_seasonsindoors2",
+         "Action": "Load",
+         "Target": "Maps/z_seasonsindoors2",
+         "FromFile": "assets/{{recolour}}/{{season}}_outdoorsTileSheet2.png"
+      },
+      {
          "LogName": "Load z_foreverspring",
          "Action": "Load",
          "Target": "Maps/z_foreverspring",
          "FromFile": "assets/{{recolour}}/spring_outdoorsTileSheet.png"
+      },
+      {
+         "LogName": "Load z_foreverspring2",
+         "Action": "Load",
+         "Target": "Maps/z_foreverspring2",
+         "FromFile": "assets/{{recolour}}/spring_outdoorsTileSheet2.png"
       },
       {
          "LogName": "Load z_enhancedtiles_unicornedit",
