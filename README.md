@@ -1,6 +1,6 @@
 # [CP] Tilesheets Rearranged Readme
 
-This is the 2.0 update which I have not published yet. I have not finished adding the recolours.
+This is the [v2.0-alpha](https://github.com/lauren-aka-proudunicornmods/Tilesheets-Rearranged/blob/main/Changelogs.md#v20-alpha) update which I have not published yet. I have not finished adding the recolours.
 
 ## Installation
 
