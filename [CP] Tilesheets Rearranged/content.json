@@ -69,7 +69,7 @@
          "LogName": "Load z_enhancedtiles_unicornedit",
          "Action": "Load",
          "Target": "Maps/z_enhancedtiles_unicornedit",
-         "FromFile": "assets/{{recolour}}/z_enhancedtiles_unicornedit.png"
+         "FromFile": "assets/vanilla/z_enhancedtiles_unicornedit.png"
       }
    ]
 }
