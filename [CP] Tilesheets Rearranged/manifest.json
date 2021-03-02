@@ -2,7 +2,7 @@
    "Name": "[CP] Tilesheets Rearranged",
    "Author": "proudunicorn",
    "Version": "2.0.0",
-   "Description": "Loads spring_outddors tilesheet etc. for use in interior and adds recolour compatibility",
+   "Description": "Loads spring_outdoors tilesheet etc. for use in interior and adds recolour compatibility",
    "UniqueID": "proudunicorn.tilesheetsrearranged",
    "UpdateKeys": ["Nexus:6751"],
    "ContentPackFor": {
