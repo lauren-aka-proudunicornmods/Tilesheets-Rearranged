@@ -63,7 +63,7 @@ That's it!
 
 ## Note
 
-I have included the renamed vanilla tilesheets [here][reference tilesheets] for reference and ease of use.
+I have included the renamed vanilla tilesheets [here][https://github.com/lauren-aka-proudunicornmods/Tilesheets-Rearranged/tree/main/reference%20tilesheets] for reference and ease of use.
 
 ## Permissions
 
