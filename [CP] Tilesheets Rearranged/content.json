@@ -64,12 +64,6 @@
          "Action": "Load",
          "Target": "Maps/z_foreverspring2",
          "FromFile": "assets/{{recolour}}/spring_outdoorsTileSheet2.png"
-      },
-      {
-         "LogName": "Load z_enhancedtiles_unicornedit",
-         "Action": "Load",
-         "Target": "Maps/z_enhancedtiles_unicornedit",
-         "FromFile": "assets/vanilla/z_enhancedtiles_unicornedit.png"
       }
    ]
 }
